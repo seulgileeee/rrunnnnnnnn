@@ -1,0 +1,31 @@
+.container {
+    width: 800px;
+    background: #d3d1d1;
+}
+
+.blog-left {
+    width: 80%;
+    height: 200px;
+    background: lemonchiffon;
+    float: left;
+}
+
+.blog-img {
+    float : left;
+    display: block;
+}
+
+.blog-name {
+    float : left;
+}
+
+.content {
+    clear: both;
+    padding: 10px;
+}
+
+.blog-img2 {
+    width: 20%;
+    float: left;
+    
+}
